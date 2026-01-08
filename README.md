@@ -140,5 +140,5 @@ Please see the repository license (if included) for reuse terms. If no license i
 
 ## Contact
 
-Author / maintainer: Sydney205 (GitHub)  
+Author/maintainer: [Sydney205](https://github.com/Sydney205)
 For questions related to this analysis, open an issue in the repository.
